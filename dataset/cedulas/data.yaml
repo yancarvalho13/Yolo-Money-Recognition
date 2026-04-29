@@ -1,0 +1,11 @@
+path: C:/Users/yan.carvalho/PyCharmMiscProject/dataset/cedulas
+train: images/train
+val: images/val
+
+names:
+  0: Cedula 10
+  1: Cedula 100
+  2: Cedula 20
+  3: Cedula 200
+  4: Cedula 5
+  5: Cedula 50
